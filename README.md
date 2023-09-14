@@ -2,7 +2,7 @@
 
 ✔ 👀 I’m interested in Programming!
 
-✔ 🌱 I’m currently learning C++ in UTN FGRP
+✔ 🌱 I’m currently learning C++, C#, SQL Server, HTML and CSS in UTN FGRP
 
 ✔ 📫 How to reach me :
 
